@@ -1,0 +1,11 @@
+.container{
+    background-color: #deb887;
+    margin: -100px auto 0px 350px;
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    font-size: 50px;
+}
+.button{
+    border: 10px solid black;
+}
